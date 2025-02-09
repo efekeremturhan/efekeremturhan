@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe Kerem Turhan</h1>
-<h2 align="center">I am a FronT-End Developer (React) from Turkey.</h2>
+<h2 align="center">I am a Front-End Developer (React) from Turkey.</h2>
 
 
 
