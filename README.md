@@ -18,7 +18,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff"></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></a>
 <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
-<a href="#"><img src="[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)"></a>
+<a href="#"><img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white"></a>
 
 
 </div>
