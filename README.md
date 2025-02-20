@@ -9,9 +9,7 @@
 
 ## 💻 Technology Stack
 <div  align="left" cursor="cursor:copy;">
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
+
 <a href="#"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
