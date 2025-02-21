@@ -20,14 +20,6 @@
 <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"></a>
 </div>
 
-<a href="#"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff"></a>
-<a href="#"><img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-
 ## 🖼️ Frameworks
 <div  align="left" cursor="cursor:copy;">
   <a href="#"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></a>
