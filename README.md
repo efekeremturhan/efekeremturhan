@@ -37,8 +37,6 @@
   <a href="#"><img src="https://img.shields.io/badge/React%20Table-FF4154?logo=reacttable&logoColor=fff"></a>
   <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"></a>
   <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-  <a href="#"><img src=""></a>
-  <a href="#"><img src=""></a>
 </div>
 
 ## 🎨 Design
